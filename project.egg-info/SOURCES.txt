@@ -1,0 +1,15 @@
+setup.py
+project.egg-info/PKG-INFO
+project.egg-info/SOURCES.txt
+project.egg-info/dependency_links.txt
+project.egg-info/entry_points.txt
+project.egg-info/top_level.txt
+promocao/__init__.py
+promocao/items.py
+promocao/pipelines.py
+promocao/settings.py
+promocao/spiders/__init__.py
+promocao/spiders/gatry_spider.py
+promocao/spiders/hardmob.py
+promocao/spiders/pelando.py
+promocao/spiders/promobit.py
